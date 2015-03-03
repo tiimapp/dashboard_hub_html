@@ -1,0 +1,22 @@
+﻿ 
+ 
+
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: white;
+    stroke-width: 2;
+    shape-rendering: crispEdges;
+    
+}
+.axis text{
+    color:red;
+    stroke: red;
+    stroke-width: 1;
+}

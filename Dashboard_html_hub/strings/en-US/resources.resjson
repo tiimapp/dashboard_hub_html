@@ -1,0 +1,21 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "Section1": "Section 1",
+    "Section1Subtext": "Lorem ipsum dolor sit nonumy sed consectetuer ising elit, sed diam",
+    "Section1Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper.",
+
+    "Section2": "公司新闻",
+    "Section2ItemTitle": "",
+    "Section2ItemSubtitle": "2015领袖会议总裁演讲",
+    "Section2Subtext": "在2015“梦想 蜕变 绽放”领袖会议上，围绕“因改变而美丽”的主题，亚太总裁KK、大中华区总裁Paul以及销售副总裁Katherine分别从玫琳凯文化",
+    "Section2Description":"各位亲爱的玫琳凯姐妹们，大家早上好！记得我第一次参加玫琳凯中国的领袖会议是在1998年3月，在无锡太湖边上举行的，大约有200位经销商出席，今天，在澳门的20周年领袖会议上，我们迎来的是2万4千多位经销商姐妹！此刻，让我回想起当年首次领袖会议的主题是叫“再创辉煌”！我感觉这就像是一个预言， 20年，玫琳凯在中国的确创造辉煌的成就！让我们为这个辉煌的时刻欢呼、喝彩！回顾这20年来我们取得的成功经验，我想没有什么比“因改变而美丽”更恰当了，玫琳凯在中国这20年里，除了我们的承诺不变，其它都在变。业务模式在变，直销法规在变，市场在变，顾客的消费习惯和需求在变，城市和乡村的结构在变，这20年只有“变”没有改变！你们说是吗？",
+    
+    "Section3": "Section 3",
+    
+    "Section4": "Section 4",
+    "Section4Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper.",
+
+    "DescriptionText": "Description text:",
+    "SectionSubtitle": "Section subtitle"
+}
